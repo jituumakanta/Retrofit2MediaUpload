@@ -5,7 +5,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 class AppConfig {
 
-    private static String BASE_URL = "http://mushtaq.16mb.com/";
+    private static String BASE_URL = "http://bluedeserts.com/";
 
     static Retrofit getRetrofit() {
 

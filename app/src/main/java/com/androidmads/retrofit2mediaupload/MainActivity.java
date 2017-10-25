@@ -179,7 +179,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                 } else {
                     assert serverResponse != null;
-                    Log.v("Response", serverResponse.toString());
+                  //  Log.v("Response", serverResponse.toString());
                 }
                 progressDialog.dismiss();
             }
